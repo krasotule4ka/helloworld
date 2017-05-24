@@ -1,5 +1,1 @@
-"# helloworld" 
-"# helloworld" 
-"# helloworld" 
-"# helloworld" 
-"Ya kotik""
+"Ya kotik"
